@@ -1,0 +1,28 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Word guess game using constructors with prompts using the inquire npm and javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeugimAtreides/Constructor-Word-Guess.git"
+  },
+  "keywords": [
+    "constructors",
+    "javaScript",
+    "inquire",
+    "game"
+  ],
+  "author": "M.E. Villarreal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeugimAtreides/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/LeugimAtreides/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1"
+  }
+}
